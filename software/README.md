@@ -43,6 +43,7 @@ The following are just guidelines and not obligations.
 - [Scout](http://mhs.github.io/scout-app/)
     - Or if you are rich [Codekit](http://incident57.com/codekit/) $$$
 - [Mou](http://mouapp.com/)
+- [iTerm 2](http://www.iterm2.com/)
   
 ### Mac app store
     
